@@ -1,0 +1,22 @@
+{
+  "name": "cats-and-unicorns",
+  "version": "1.0.0",
+  "description": "Just some cats and some unicorns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darthporkius/Cats-and-Unicorns.git"
+  },
+  "author": "José",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darthporkius/Cats-and-Unicorns/issues"
+  },
+  "homepage": "https://github.com/Darthporkius/Cats-and-Unicorns#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
